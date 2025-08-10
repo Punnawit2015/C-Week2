@@ -1,0 +1,16 @@
+C:\Users\punna\Desktop\C#Week2\bin\Debug\net5.0\C#Week2.exe
+C:\Users\punna\Desktop\C#Week2\bin\Debug\net5.0\C#Week2.deps.json
+C:\Users\punna\Desktop\C#Week2\bin\Debug\net5.0\C#Week2.runtimeconfig.json
+C:\Users\punna\Desktop\C#Week2\bin\Debug\net5.0\C#Week2.runtimeconfig.dev.json
+C:\Users\punna\Desktop\C#Week2\bin\Debug\net5.0\C#Week2.dll
+C:\Users\punna\Desktop\C#Week2\bin\Debug\net5.0\ref\C#Week2.dll
+C:\Users\punna\Desktop\C#Week2\bin\Debug\net5.0\C#Week2.pdb
+C:\Users\punna\Desktop\C#Week2\obj\Debug\net5.0\C#Week2.csproj.AssemblyReference.cache
+C:\Users\punna\Desktop\C#Week2\obj\Debug\net5.0\C#Week2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\punna\Desktop\C#Week2\obj\Debug\net5.0\C#Week2.AssemblyInfoInputs.cache
+C:\Users\punna\Desktop\C#Week2\obj\Debug\net5.0\C#Week2.AssemblyInfo.cs
+C:\Users\punna\Desktop\C#Week2\obj\Debug\net5.0\C#Week2.csproj.CoreCompileInputs.cache
+C:\Users\punna\Desktop\C#Week2\obj\Debug\net5.0\C#Week2.dll
+C:\Users\punna\Desktop\C#Week2\obj\Debug\net5.0\ref\C#Week2.dll
+C:\Users\punna\Desktop\C#Week2\obj\Debug\net5.0\C#Week2.pdb
+C:\Users\punna\Desktop\C#Week2\obj\Debug\net5.0\C#Week2.genruntimeconfig.cache
